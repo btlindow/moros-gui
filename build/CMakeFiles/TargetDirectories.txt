@@ -1,5 +1,0 @@
-/home/ben/Projects/moros-gui/build/CMakeFiles/rebuild_cache.dir
-/home/ben/Projects/moros-gui/build/CMakeFiles/edit_cache.dir
-/home/ben/Projects/moros-gui/build/CMakeFiles/moros-gui.dir
-/home/ben/Projects/moros-gui/build/CMakeFiles/moros-gui_autogen_timestamp_deps.dir
-/home/ben/Projects/moros-gui/build/CMakeFiles/moros-gui_autogen.dir
